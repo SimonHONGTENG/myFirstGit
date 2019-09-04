@@ -70,9 +70,11 @@
   * **Code:** 401 UNAUTHORIZED <br />
     **Content:** `{ error : "You are unauthorized to make this request." }`
     
-    
-  **Add a User**
-----
+ 
+ 
+**Add a User**
+  ----
+  
   Returns json data about the added user.
 
 * **URL**
