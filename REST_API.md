@@ -108,7 +108,7 @@
   * **Code:** 401 UNAUTHORIZED <br />
     **Content:** `{ error : "You are unauthorized to make this request." }`
     
-   **Update a User**
+**Update a User**
 ----
   Returns json data about the updated user.
 
@@ -145,7 +145,7 @@
   * **Code:** 401 UNAUTHORIZED <br />
     **Content:** `{ error : "You are unauthorized to make this request." }`
   
-     **Delete a User**
+**Delete a User**
 ----
   Returns json data about success.
 
